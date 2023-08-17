@@ -5,7 +5,7 @@
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
 
-## Feature
+## Features
 
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
 * Compatibility with Minecraft 1.7.10+
@@ -18,7 +18,6 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Default in-memory cache
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
-##kunal sharma
 
 ## Planned
 
@@ -76,5 +75,4 @@ Inspired by
 * [SquirrelId](https://github.com/EngineHub/SquirrelID)
 * [Mojang Authlib](https://github.com/Techcable/Authlib)
 * [Mojang AccountsClient](https://github.com/JonMcPherson/AccountsClient/)
-* [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy0)
-();
+* [API proxy Interceptor](https://github.com/Shevchik/MojangAPIProxy)
